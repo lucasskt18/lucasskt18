@@ -12,7 +12,8 @@
   
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasskt18)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
