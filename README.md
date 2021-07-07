@@ -1,8 +1,3 @@
-### Hi there 👋
+### Hi there 👋, meu nome é Lucas Amancio
 
-My name is Lucas Amancio :brazil:
-
-Front End Developer :computer:
-
-Studying Information System :books:
 
