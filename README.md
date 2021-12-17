@@ -10,15 +10,15 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasskt18&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-  ##
+  ###
 
 <div style="display: inline_block"><br>
   <p>
   <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png%22%3E📌
   </g-emoji> Tenho experiência em:
-  <p>
+  </p>
 
-  ##
+  ###
                                                           
                                                           
 <div style="display: inline_block"><br>
