@@ -16,7 +16,7 @@
   <img align="center" alt="Jhow-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jhow-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align=center alt="" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img src="https://cdn.discordapp.com/attachments/885721251417583630/892862202879553556/eofidas.png" alt="spiderman" left="100" width="110" height="100"> 
+   <img src="https://cdn.discordapp.com/attachments/885721251417583630/892862202879553556/eofidas.png" alt="spiderman" left="200" width="110" height="100"> 
 <src="https://media.discordapp.net/attachments/885721251417583630/892862202879553556/eofidas.png?width=676&height=676">
 </div>
 
