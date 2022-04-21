@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Lucas Amancio 🇧🇷
 
-### -Front End developer 💻
+### -Developer 💻
 
 ### -Studying Information System 📚
 
