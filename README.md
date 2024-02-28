@@ -1,5 +1,3 @@
-About me: My name is Lucas Amancio and I'm 21 years old. I'm a dedicated, results-oriented professional with a passion for technology and innovation. With a degree in Information Systems and a strong commitment to continuous learning, I am always willing to explore new challenges in the technological world.
-
-I currently work as a software developer. The languages I use are: Go, Angular, C#, TypeScript and React.
+Sou Lucas Amancio, um Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com experiência significativa em ASP.NET, C#, JavaScript, e uma ampla gama de frameworks e tecnologias, me destaco pela habilidade em liderar projetos desafiadores, como a migração de sistemas, e otimizar a performance e estabilidade operacional de plataformas digitais. Atualmente, contribuo com a excelência técnica na kasta.io, impulsionando seu sucesso no mercado através do desenvolvimento e aprimoramento contínuo do site. Estou em constante aprendizado e evolução, buscando sempre superar os desafios com criatividade e eficiência
 
 
