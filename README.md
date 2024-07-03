@@ -1,1 +1,1 @@
-I'm Lucas Amancio, a Full Stack Developer with a passion for technology and innovation. With significant experience in ASP.NET, C#, JavaScript, and a wide range of frameworks and technologies, I stand out for my ability to lead challenging projects, such as system migration, and optimize the performance and operational stability of digital platforms.
+Sou Lucas Amancio, um Full Stack Developer apaixonado por tecnologia e inovação. Com experiência significativa em ASP.NET, C#, JavaScript.
